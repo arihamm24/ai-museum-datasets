@@ -1,4 +1,7 @@
 body {
     padding: 5px;
-    margin: 10px;
+    margin: 20px;
+}
+table td, table th {
+    border: 1px solid black;
 }
