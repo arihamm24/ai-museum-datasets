@@ -37,7 +37,7 @@ header {
     flex-direction: row;
     gap: 100px;
 }
-#prof-photo> img {
+#prof-photo > img {
     width: 300px;
     height: auto;
 }
