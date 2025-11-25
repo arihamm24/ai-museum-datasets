@@ -31,7 +31,7 @@ function getArtifacts(data) {
        table += `
             <tr>
                 <td>${artifacts[i].ID} </td>
-                <td>Image here</td>
+                <td><img src="./Artifact Images/${artifacts[i].image}"/></td>
                 <td>${artifacts[i].labelText} </td>
                 <td>${artifacts[i].ai_desc} </td>
                 <td>${artifacts[i].human_desc} </td>
