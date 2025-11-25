@@ -20,13 +20,12 @@ header {
     display:flex;
     flex-direction: row;
     justify-content: left;
-    gap: 60px;
     align-items: center;
 }
 #navbar{
     display:flex;
     flex-direction: row;
-    gap: 25px;
+    gap: 15px;
 }
 #nav-item {
     list-style: none;
