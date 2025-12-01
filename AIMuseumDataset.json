@@ -146,7 +146,7 @@
         },
         {
             "ID": 21,
-            "image" : "Art21.jpg",
+            "image" : "Art21.JPG",
             "labelText" : null,
             "ai_desc" : "This black-and-white photograph captures a moment inside an early 20th-century industrial paper finishing room. The image features three male workers—each wearing long aprons—engaged in manually inspecting, aligning, or stacking large sheets of paper or cloth felt. The material in view is likely reams of handmade or machine-made paper being processed post-drying. The texture of the materials appears smooth and flexible, arranged in tall layered stacks across two wooden carts. The composition includes tall paned windows in the background, industrial equipment, and heavy shadows suggesting a factory setting with natural light filtering through. The photograph is highly detailed, with crisp contrast emphasizing the folds and contours of the stacks and garments. The overall condition of the image is excellent; it is framed and preserved under glass. This artifact serves as visual documentation of labor-intensive stages in papermaking—likely couching, pressing, or drying—and reflects the human scale of industrial production before full mechanization.",
             "human_desc" : "Black and white square photograph of three men in long aprons working in a paper workshop at various stages of pulling and couching large sheets of paper. The man in nearest to the background windows holds a paper mold so long and wide that he leans slight forward while griping it with two hands. The man to his left, in the midground appears to be couching sheets of paper, pressing the water out by leaning onto the stack of papers and felts with his arms. The third man, in a black vest is using a large hand tool, seemingly to smooth the paper."
@@ -186,7 +186,7 @@
         },
         {
             "ID": 26,
-            "image" : "Art26.jpg",
+            "image" : "Art26.JPG",
             "labelText" : "Photographs of Richard De Bas Mill, France, early 20th century",
             "ai_desc" : "This artifact is a black-and-white photograph printed on matte paper, capturing a moment of manual labor in the historic Richard de Bas paper mill in France during the early 20th century. The composition centers on a worker leaning over large wooden troughs, which are likely part of the pulp preparation or vat process. The material surface is flat with a subtle sheen, indicative of gelatin silver print techniques common in early photography. The tonal range is rich and detailed, with deep shadows under the vaulted stone ceiling and soft highlights on the worker's clothing and the beams. The texture of the photograph is smooth, and the image is framed with clean linear balance. In terms of style, it reflects early documentary realism with a focus on craft and environment, offering a glimpse into traditional papermaking methods. The condition appears excellent, with no visible signs of fading, tears, or discoloration.",
             "human_desc" : "Photo 1/5. Black and white photograph of a worker in the historic in the historic Richard de Bas paper mill in France during the early 20th century. The worker leans over in a row of large wooden troughs, likely vats."
@@ -194,7 +194,7 @@
         },
         {
             "ID": 27,
-            "image" : "Art27.jpg",
+            "image" : "Art27.JPG",
             "labelText" : "Photographs of Richard De Bas Mill, France, early 20th century",
             "ai_desc" : "This artifact is a black-and-white photograph printed on matte paper, documenting a moment of traditional papermaking at the Richard de Bas mill in France in the early 20th century. The composition captures a worker in mid-motion handling a thick rope or hose, suggesting involvement in the pulp or drying process. The image is dominated by strong contrasts and directional lighting, creating deep shadows and highlights that accentuate the textures of the tools, wooden beams, and the worker’s apron. The surface of the photograph is smooth, likely gelatin silver print, consistent with the time period. The framing emphasizes both human labor and industrial equipment, revealing the physical intensity of the work. Stylistically, the photograph is grounded in early documentary realism, portraying a moment of purposeful motion in a dimly lit interior. The condition is good, with slight wear visible at the corners, but no major damage.",
             "human_desc" : "Photo 2/5. Black and white photograph of workers in a dimly lit interior. In the foreground, a worker in an apron pulling a tree trunk through a small rectangular window slit with a thick rope. Behind that worker, two others are steadying an upright trunk with waist height handles. The other end of the rope is tied to the top of this upright trunk."
@@ -202,7 +202,7 @@
         },
         {
             "ID": 28,
-            "image" : "Art28.jpg",
+            "image" : "Art28.JPG",
             "labelText" : "Photographs of Richard De Bas Mill, France, early 20th century",
             "ai_desc" : "This black-and-white photograph, likely a gelatin silver print, captures a quiet moment inside the Richard de Bas paper mill in France, early 20th century. The image shows two individuals engaged in the papermaking process: one figure in the foreground leans over a large wooden vat, carefully lifting a paper mold or sheet from the slurry, while another figure is visible in profile at the back, illuminated by a bright window. The composition is vertically divided between the rough, timeworn textures of the stone wall and the clean geometry of the mold and vat. The photograph's lighting emphasizes the contrast between the exterior daylight and the dimly lit workspace, creating an intimate atmosphere. The image documents a vital phase of hand papermaking and evokes the slow, methodical rhythm of traditional craftsmanship. The condition of the photo is very good, with sharp detail and no visible signs of damage.",
             "human_desc" : "Photo 3/5. Black and white photograph of two workers working with paper molds one figure: one figure in the foreground leans over a large wooden vat, carefully lifting a large paper mold from the slurry, while the other in profile is holding a mold of the same size with paper fibers on it angled towards the camera."
@@ -210,7 +210,7 @@
         },
         {
             "ID": 29,
-            "image" : "Art29.jpg",
+            "image" : "Art29.JPG",
             "ai_desc" : "This atmospheric black-and-white photograph, likely from the early 20th century, captures the drying room of the Richard de Bas paper mill in France. The composition is dominated by hundreds of freshly made paper sheets hanging overhead in dense, linear rows from wooden beams—emphasizing the scale of production and the methodical nature of the drying process. Below, a worker stands at a central table, either inspecting or stacking reams of dried paper. The lighting is soft but directional, highlighting the texture of the paper and timber rafters, while casting long shadows that deepen the visual rhythm. This image documents a crucial phase of traditional hand papermaking—air drying—and offers a rare view into the physical architecture and labor-intensive character of the craft. The condition of the photo is excellent, with high contrast and rich tonal detail.",
             "labelText" : "Photographs of Richard De Bas Mill, France, early 20th century",
             "human_desc" : "Photo 4/5. Black and white photograph of a drying room in the Richard de Bas paper mill in France. Sheets of fresh paper are hanging from the ceiling in neat columns to dry on a set of wooden beams. Below, on a central table lie several stacks of felts and sheets of paper." 
@@ -218,7 +218,7 @@
         },
         {
             "ID": 30,
-            "image" : "Art30.jpg",
+            "image" : "Art30.JPG",
             "labelText" : "Photographs of Richard De Bas Mill, France, early 20th century",
             "ai_desc" : "This black-and-white photograph from the early 20th century captures two papermakers at work in the Richard de Bas Mill in France, carefully stacking freshly made sheets of handmade paper. The scene is composed around a thick, uneven ream of paper resting on a central table, emphasizing the tactile nature of the sheets. One worker, seated and reaching upward, appears to be preparing or straightening the stack, while the other, more sharply lit, sits opposite in a tank top, poised mid-task. The strong chiaroscuro lighting enhances the visual drama of the image, casting shadows across the figures’ arms and the textured surface of the paper. This moment documents a quiet but essential step in the papermaking process—organizing and pressing finished sheets—and reinforces the artisanal precision required in traditional European mills. The photo conveys a sense of rhythm, repetition, and human attention fundamental to the craft.",
             "human_desc" : "Photo 5/5. Black and white photograph of two papermakers carefully stacking freshly made sheets of handmade paper on a central table. Both workers are seated. The left one is reaching upward, while the right is steadying the stack with a hand on the corner."
@@ -226,7 +226,7 @@
         },
         {
             "ID": 31,
-            "image" : "Art31.jpg",
+            "image" : "Art31.JPG",
             "labelText" : "Wind-driven paper mill, series of five.",
             "ai_desc" : "This black-and-white photograph, part of a five-piece series on a wind-driven paper mill, shows a worker lifting a thick ream of freshly formed paper sheets from a wooden bench or press table. Dressed in a light-colored shirt and dark pants, the man is bent over with deliberate care, his posture emphasizing the weight and fragility of the stacked paper. Behind him, partially obscured by machinery, other workers are engaged in tasks related to the paper production process. A prominent roller drum and mechanical components at left suggest a transitional stage between hand and mechanized papermaking. The lighting is diffuse but bright enough to cast shadows and emphasize the physical textures of the paper, clothing, and equipment. This image captures the hybrid industrial setting of a wind-powered mill in operation—rooted in traditional practices yet evolving toward mechanization. The visual rhetoric highlights labor, precision, and the continuity of papermaking through changing technologies.",
             "human_desc" : "Photo 1/5. Black and white photograph of a worker lifting a thick ream of freshly formed paper sheets from a wooden press table. Dressed in a light-colored shirt and dark pants, the man is bent over with deliberate care for the delicate sheet. Behind him, partially obscured by machinery, other workers are engaged in tasks related to the paper production process. One, to the left, is pulling a knob or lever attached to a prominent machine with a roller drum. The other, facing away from camera in the background, is standing."
@@ -234,7 +234,7 @@
         },
         {
             "ID": 32,
-            "image" : "Art32.jpg",
+            "image" : "Art32.JPG",
             "labelText" : "Wind-driven paper mill, series of five.",
             "ai_desc" : "This black-and-white landscape photograph shows an exterior view of a wind-driven paper mill, with a traditional Dutch windmill structure rising prominently at the center right. The mill sits beside a calm body of water that mirrors the structure and surrounding trees, emphasizing the harmony between industry and environment. The angular roof and vertical slats of the building contrast with the curved arms of the windmill, which stretch outward, capturing the wind that powered the mill’s internal mechanisms. Soft cloud formations and leafy trees create a serene backdrop, while the mill’s reflection in the water reinforces its centrality in the scene. The composition balances natural and built elements, underscoring the historical reliance on renewable wind energy in traditional European papermaking. The image’s stillness, clarity, and symmetry evoke a sense of timelessness and quiet productivity, offering visual contrast to the more labor-intensive interior scenes of the same series.",
             "human_desc" : "Photo 4/5. Black and white photograph of an exterior view of a wind-driven paper mill, with a traditional Dutch windmill structure rising prominently at the center right. The mill, comprised of a large house-like structure and a towering wooden windmill, sits beside a calm body of water that mirrors the structure and surrounding trees. Soft cloud formations and leafy trees create a serene backdrop."
@@ -242,7 +242,7 @@
         },
         {
             "ID": 33,
-            "image" : "Art33.jpg",
+            "image" : "Art33.JPG",
             "labelText" : "Wind-driven paper mill, series of five.",
             "ai_desc" : "This black-and-white photograph captures a worker in the drying room of a wind-driven paper mill, standing beneath a low wooden ceiling densely lined with hanging sheets of handmade paper. The worker, partially obscured behind a large drying sheet, appears to be placing or inspecting it, their task framed by a vertical post and horizontal beam that divide the composition. The slatted drying racks above and below establish a rhythmic structure that dominates the image, creating an immersive environment of suspended paper. The interplay of shadows and highlights reveals the varying translucency and texture of the paper sheets. The scene emphasizes the careful, repetitive labor involved in air-drying paper, a crucial phase that ensures the quality and flatness of each sheet. The photograph’s perspective, peering slightly upward into the rafters, conveys the immersive density and physicality of traditional paper production spaces.",
             "human_desc" : "Photo 5/5. Black and white photograph of a worker in the drying room of a wind-driven paper mill, standing beneath a low wooden ceiling densely lined with neatly hung sheets of handmade paper. The worker, partially obscured behind a large drying sheet, stands between a vertical post and horizontal beam appears to be placing another sheet to dry."
@@ -250,7 +250,7 @@
         },
         {
             "ID": 34,
-            "image" : "Art34.jpg",
+            "image" : "Art34.JPG",
             "labelText" : "Wind-driven paper mill, series of five.",
             "ai_desc" : "This black-and-white photograph shows a worker operating a large wooden screw press within a wind-driven paper mill. At the center of the image, a stack of freshly couched sheets—interleaved with felts—rests on a press bed beneath the horizontal screw mechanism, ready to be compressed to remove excess water. The worker is partially visible, crouched behind the machinery, guiding or aligning the layered materials with precision. The structure of the press, with its worn, heavy beams and iron fittings, dominates the vertical composition and conveys the force required in this step of papermaking. The surrounding environment, filled with tools and timber, emphasizes the mechanical ingenuity of early industrial paper production. The press not only flattens the sheets but also binds the image to a long tradition of manual labor and engineered efficiency central to the handmade papermaking process.",
             "human_desc" : "Photo 3/5. Black and white photograph of a worker operating a large wood and iron screw press within a wind-driven paper mill. At the center of the image, stacks of freshly couched sheets and drying felts are separated by large wooden boards. This larger stack rests on a press bed beneath the horizontal screw mechanism. The worker is crouched behind the machinery, guiding the layered materials with precision."
@@ -258,7 +258,7 @@
         },
         {
             "ID": 35,
-            "image" : "Art35.jpg",
+            "image" : "Art35.JPG",
             "labelText" : "Wind-driven paper mill, series of five.",
             "ai_desc" : "This black-and-white photograph captures a close-up view of the internal wooden gear mechanism of a wind-driven paper mill. At the center is a large horizontal cogwheel with evenly spaced wooden teeth, interlocked with a smaller vertical gear that transfers rotational energy through the system. The intricate engineering—comprising wooden pegs, axles, and support beams—demonstrates the ingenuity of wind-powered industrial machinery from the pre-industrial era. The image emphasizes texture and density, drawing attention to the worn, polished surfaces of the gear teeth and the robust timber frame supporting the structure. Unlike the more human-centered images in the series, this photograph foregrounds the mechanical core of the mill, showcasing the transmission of wind energy into kinetic power essential for pulping rags and driving other components in the papermaking process.",
             "human_desc" : "Photo 2/5. Black and white photograph of a close-up view of the internal wooden gear mechanism of a wind-driven paper mill. At the center is a large horizontal cogwheel with evenly-spaced, worn wooden teeth, interlocked with a smaller vertical gear. Surrounding this main mechanism is other mechanical structures: wooden pegs, axles, and support beams."
@@ -266,7 +266,7 @@
         },
         {
             "ID": 36,
-            "image" : "Art36.jpg",
+            "image" : "Art36.JPG",
             "labelText" : "Reproduction of Johann Meiser, 17th century paper mill",
             "ai_desc" : "This richly detailed colored print reproduces a 17th-century view of a paper mill attributed to Johann Meiser. The composition is divided into two distinct registers. The upper section presents a panoramic bird’s-eye view of a rural paper mill complex nestled among cultivated fields, winding paths, and rolling hills, all rendered with stylized topographic precision. The rooftops and walls of the mill structures are shaded with fine crosshatching, creating a textured and illustrative quality characteristic of early modern European printmaking. The lower register shifts perspective to a cutaway interior scene depicting stages of papermaking in progress: workers are shown pulping rags, forming sheets with molds and deckles, and pressing or drying paper. Each figure is captured mid-motion, contributing to a sense of industrious rhythm and collaboration. Decorative flourishes in the framing elements and an ornate title banner reading “IOHANN MIESER” underscore the piece’s documentary and commemorative function. The work combines illustrative detail with schematic clarity, functioning both as a visual record and a celebration of the craft.",
             "human_desc" : "Richly detailed colored print divided into two distinct sections by a horizontal line. The upper section presents a panoramic bird’s-eye view of a rural 17th century paper mill complex nestled among cultivated yellow and green fields, winding blue rivers, and rolling hills. The brown rooftops and walls of the mill structures are shaded with fine crosshatching. A rounded yellow rectangle at the top of the section contains a block of small printed German text. The lower section is an interior scene of the paper mill. Workers are shown pulping rags, forming sheets with molds and deckles, and pressing or drying paper. There are decorative flourishes in the framing elements and at the bottom, an ornate yellow title banner reading “JOHANN MIESER”."
@@ -274,7 +274,7 @@
         },
         {
             "ID": 37,
-            "image" : "Art37.jpg",
+            "image" : "Art37.JPG",
             "labelText" : "German ream wrapper, 1679",
             "ai_desc" : "This artifact is a highly decorative German ream wrapper dated 1679, printed on laid paper and characterized by its bold central coat of arms and scrollwork. The design features a stylized heraldic shield flanked by two rampant orange lions and surrounded by an ornate frame of flourishes in muted orange, teal, and gray-blue ink. At the top, a scroll inscribed in blackletter reads “Gott zu Ruhm, uns zum Nutz,” a typical invocation in German commercial printing of the time. Below the crest, another banner includes the date “1679” and references to the papermaker. The paper’s texture shows distinct laid lines, consistent with 17th-century handmade European paper, and the edges are irregular and roughly torn, indicating its utilitarian function as a packaging material for finished sheets. The illustrative style is emblematic of baroque print design, with high contrast, dense ornamentation, and symmetrical balance. Both a functional artifact of the paper trade and a promotional imprint, this wrapper exemplifies the intersection of branding and craftsmanship in early modern papermaking.",
             "human_desc" : "Ream wrapper printed on white laid paper with distinct laid lines, irregular torn edges, and browning at the top edge from age. The central design, a large coat of arms, features a stylized shield divided into quarters, with orange lions and blue-roofed tents or buildings featured in diagonal pairs. The shield is surrounded by an ornate frame of flourishes in muted orange, teal, and gray-blue ink. At the top, a scroll inscribed in blackletter reads “Gott zu Ruhm, uns zum Nutz,” a typical invocation in German commercial printing of the time. Below the crest, another banner includes the date “1679” and references to the papermaker. No translation is provided"
@@ -282,7 +282,7 @@
         },
         {
             "ID": 38,
-            "image" : "Art38.jpg",
+            "image" : "Art38.JPG",
             "labelText" : "German paper mill, 1914",
             "ai_desc" : "This sepia-toned photograph captures the interior of a German paper mill in 1914, presenting an industrial setting where manual labor and mechanization coexist. The image is dominated by large timber-framed structures and an array of wooden beaters and pulping equipment, arranged with geometric precision across a stone-tiled floor. Several workers, including young boys and suited supervisors, are posed among the machinery, emphasizing both the scale of the operation and the human effort behind early 20th-century papermaking. A prominent framed sign on the back wall reads 'JW ZANDERS'—referring to one of Germany's historic paper manufacturing firms—alongside company details in ornate Gothic script. The photograph reflects a transitional moment in papermaking history, when older handcrafted methods were being integrated with industrial processes. The architectural framing, tonal range, and careful posing reflect the documentary style of early industrial photography. This image serves not only as a historical record but also as a visual narrative of a working mill at the edge of modernity.",
             "human_desc" : "Black and white photograph of large timber-framed industrial machines, wooden beaters, and pulping equipment, precisely arranged with across a stone-tiled floor. Several workers, including suited supervisors, are posed on top of and among the machinery. A prominent framed sign on the back wall reads 'JW ZANDERS' alongside company details in ornate Gothic script. Below the sign, slightly to the right, the machines continue and there is a small window and several bags of plant material."
@@ -290,7 +290,7 @@
         },
         {
             "ID": 39,
-            "image" : "Art39.jpg",
+            "image" : "Art39.JPG",
             "labelText" : "Engraving from Nuremburg Chronicles depicting Ulman Stromer's mill",
             "ai_desc" : "A richly detailed hand-colored woodcut engraving from the Nuremburg Chronicles (1493), this panoramic view of the walled city of Nuremberg showcases the densely packed rooftops, towers, and church spires of the medieval metropolis. In the foreground, along the riverbank outside the city walls, a small but significant feature is illustrated: the paper mill of Ulman Stromer, recognized as the first documented paper mill in Germany (established in 1390). The mill is shown with a waterwheel and structures consistent with pre-industrial paper production, subtly emphasizing its importance within the broader urban and economic landscape. The engraving is composed in a stylized, map-like perspective, with vibrant red roofs, blue water, and earthy greens and browns. The graphic clarity and narrative richness reflect the influence of late medieval cartographic and architectural illustration. This artifact situates the emergence of papermaking in Germany within the civic pride and historical record-keeping of Renaissance humanism.",
             "human_desc" : "Large vibrantly colored print illustration of densely-packed red-roofed buildings, towers, and church spires in a medieval German city on large white paper. Along the riverbank outside of the city walls is the paper mill, a smaller cluster of buildings with the same red roofs and white bricks as the structures inside the wall. The mill is shown with a waterwheel and other papermaking structures. There is printed German text in the upper right portion of the illustration, atop two sets of coupled towers and a single printed word in the sky. There is also label-like text on the paper's top margin. No translation is provided"
@@ -298,7 +298,7 @@
         },
         {
             "ID": 40,
-            "image" : "Art40.jpg",
+            "image" : "Art40.JPG",
             "labelText" : "Papermaking in England, the vatman",
             "ai_desc" : "A black-and-white photograph of an English papermaker at work, identified as the vatman. He is captured mid-process, lifting a mould from a vat of pulp in a traditional hand papermaking operation. Wearing a white cap and apron, his posture and focus illustrate the precision and labor involved in sheet formation. The industrial backdrop contrasts with the artisanal gesture, situating this craft within a 20th-century English workshop. The image is rendered with realistic detail, emphasizing both texture and motion.",
             "human_desc" : "Black and white photograph of an English papermaker in a white hat and apron pulling a large mould from a vat of paper pulp."
@@ -306,7 +306,7 @@
         },
         {
             "ID": 41,
-            "image" : "Art41.jpg",
+            "image" : "Art41.JPG",
             "labelText" : "Papermaking in England, the coucher",
             "ai_desc" : "A black-and-white photograph showing the traditional role of the coucher in English papermaking. The man, dressed in work clothes and a cap, is lowering a grid-like press onto a fresh stack of wet paper sheets. His stance over the vat and the damp stack emphasizes the physicality and precision of his task. This image captures a critical stage in hand papermaking where formed sheets are transferred to felt for drying. The gritty texture and tonal contrast highlight the historic, artisanal atmosphere of a working paper mill.",
             "human_desc" : "Black and white photographed of an English paper worker in a white hate and apron at work. The worker is leaned over a short stone wall pressing a black metal grid-like press on to a stack of drying felts and freshly-pulled sheets of paper"
@@ -314,7 +314,7 @@
         },
         {
             "ID": 42,
-            "image" : "Art42.jpg",
+            "image" : "Art42.JPG",
             "labelText" : "Printed petition on the duty tax on English paper",
             "ai_desc" : "A historical broadside titled The Case of the Paper-Makers of Great Britain, printed in black ink on aged, roughly cut paper. The document outlines grievances and economic hardships caused by the duty tax on paper, advocating for legislative reform. It includes ornate initial lettering, a formal tone, and tabulated figures near the bottom detailing tax amounts. The worn edges and yellowed tone enhance its authenticity as an 18th-century political document, reflecting the intersection of papermaking and economic policy.",
             "human_desc" : "Long framed rectangular piece of English paper, with frayed edges and yellowing from age. The document, 'The Case of the Paper-Makers of Great Britain,' is printed in black ink and outlines grievances and economic hardships caused by the duty tax on paper, advocating for legislative reform. It includes ornate initial lettering in the first paragraph, a formal tone, and tabulated figures near the bottom detailing tax amounts."
@@ -322,7 +322,7 @@
         },
         {
             "ID": 43,
-            "image" : "Art43.jpg",
+            "image" : "Art43.JPG",
             "labelText" : "Book binders from a Book of Trades, 18th century watermarks",
             "ai_desc" : "A finely detailed black-and-white engraving showing a bookbinding workshop, likely from an 18th-century Book of Trades. Two figures work amid presses, stacks of books, and wooden tools in a well-lit room with large lattice windows. One binder sits sewing spines, while another works at a table. A large screw press is prominently displayed in the lower right foreground. The scene captures the methodical craftsmanship of early book production, emphasizing manual skill and domestic-scale industry.",
             "human_desc" : "Large square black and white engraving of a book binding workshop from the 18th century. Two figures work amid presses, stacks of books, and wooden tools in a well-lit room with large lattice windows. One sits sewing spines, while another stands at a table, caught mid-swing of a hammer or axe tool. A large screw press is prominently displayed in the lower right foreground."
@@ -330,7 +330,7 @@
         },
         {
             "ID": 44,
-            "image" : "Art44.jpg",
+            "image" : "Art44.JPG",
             "labelText" : "Jacob Christian Schaffer (1719 – 1791), Bavarian scientist who experimented with alternatives to rags for papermaking",
             "ai_desc" : "A formal portrait engraving of Jacob Christian Schaffer, shown in mid-18th century academic attire with curled white wig and wide, pleated collar. He gestures expressively with one hand while the other rests on an open book placed atop a stone pedestal. The Latin inscription below the image outlines his ecclesiastical and scholarly credentials. Rendered in monochrome with fine linework and chiaroscuro, the image communicates scholarly dignity and Enlightenment-era gravitas. Schaffer is remembered for his innovations in papermaking, particularly his experiments using unconventional fibrous materials in place of rags.",
             "human_desc" : "A formal monochrome portrait engraving of Jacob Christian Schaffer, shown in mid-18th century academic attire with curled white wig and wide, pleated collar. He gestures expressively with one hand to his chest while the other rests on an open book placed atop a stone pedestal. The Latin inscription below the image outlines his ecclesiastical and scholarly credentials. Rendered in monochrome with fine linework and strong contrast."
@@ -338,7 +338,7 @@
         },
         {
             "ID": 45,
-            "image" : "Art45.jpg",
+            "image" : "Art45.JPG",
             "labelText" : "Albert Seba (1665 – 1736) a Flemish specialist on natural history",
             "ai_desc" : "A highly detailed engraved portrait of Albertus Seba, depicted seated before a table covered in natural specimens and open illustrated books. Seba is portrayed in flowing scholarly robes with a voluminous curled wig, a hallmark of 18th-century academic fashion. One hand points to a page of botanical or zoological illustrations, while the other holds a specimen jar—symbolizing his role as a collector and cataloguer of the natural world. The setting includes a library background and classical architectural elements, reinforcing the image of intellectual prestige. The Latin caption honors his membership in multiple scientific academies. The engraving style uses fine lines and strong chiaroscuro to create a dramatic, encyclopedic atmosphere, in keeping with Enlightenment values of classification and knowledge.",
             "human_desc" : "A highly detailed monochrome engraved portrait of Albertus Seba, depicted seated against a library background before a table covered in natural specimens and open illustrated books. Seba is portrayed in flowing scholarly robes with a voluminous curled wig. One hand points to a page of botanical or zoological illustrations, while the other holds a specimen jar—symbolizing his role as a collector and cataloguer of the natural world. The Latin caption honors his membership in multiple scientific academies. The engraving style uses fine lines and strong contrast."
@@ -346,7 +346,7 @@
         },
         {
             "ID": 46,
-            "image" : "Art46.jpg",
+            "image" : "Art46.JPG",
             "labelText" : "Books by Mathias Koops on paper made from straw and wood",
             "ai_desc" : "An open book displayed under glass, showing printed pages dedicated to the British monarchy. The typography features serif fonts with generous spacing, and the right-hand page includes a royal crest above a block of printed prose advocating the importance of papermaking. The book was authored by Mathias Koops, an innovator who pioneered the use of straw and wood fibers in papermaking. The text emphasizes the civic and scientific value of paper in society. Presented as an artifact of experimental 19th-century materials science, the book serves both as a historical publication and a tangible example of early non-rag paper. Style is formal, with refined typesetting typical of early 1800s British imprints.",
             "human_desc" : "A small, open book showing a printed two-page spread dedicated to the British monarchy. The typography features serif fonts with generous spacing, and the right-hand page includes a royal crest above a block of printed prose advocating the importance of papermaking. On the left side, the edges of previous pages are browning from age. The text emphasizes the civic and scientific value of paper in society."
@@ -354,7 +354,7 @@
         },
         {
             "ID": 47,
-            "image" : "Art47.jpg",
+            "image" : "Art47.JPG",
             "labelText" : "Books by Jacob Christian Schaffer showing experiments in papermaking",
             "ai_desc" : " This small, open book is composed of a coarse, fibrous paper material indicative of early papermaking experiments, likely incorporating alternative fibers such as plant stalks or wood pulp. The texture is visibly rough and organic, emphasizing its experimental nature rather than polished finish. Rectangular in form, the book follows a conventional codex structure with two facing pages, one blank and one bearing printed German text. The structure appears stable though minimally bound, with a flattened spine and protective housing. The color palette is subdued, with warm brown and beige tones dominating the pages and cover. The condition is fair, with minimal warping or discoloration, suggesting careful preservation despite the fragile and unconventional materials used.",
             "human_desc" : "A small, open book displaying a brown textured left page and a printed page on the right, which reads in German: 'Versuch mit Blauholzdrucken'. The paper has a fibrous, handmade texture, appearing coarse, and has some discoloration at the edges from age. No translation is provided for the text."
@@ -362,7 +362,7 @@
         },
         {
             "ID": 48,
-            "image" : "Art48.jpg",
+            "image" : "Art48.JPG",
             "labelText" : "Documents by Mathias Koops on the invention of paper made from wood",
             "ai_desc" : " This framed document consists of handwritten correspondence on early paper, most likely made from wood pulp given its association with Mathias Koops’ experiments. The material is a thin, fibrous sheet, possibly handmade or from early industrial processes using wood-derived fibers. Its texture appears brittle and uneven, with visible creases and worn edges suggesting extensive folding. The form is rectangular and unfolded to display both writing and the triangular folded seal flap at the top, indicative of 18th–19th century letter-folding practices. Structurally, the document is single-sheet and delicate, with visible damage in the form of water stains, dark ink blotting, and edge wear. The paper is a yellowed cream tone, darkened significantly in places due to age and oxidation. Overall, the condition is fragile but stable, with legible script and preserved wax seal remnants, making it a historically valuable example of early papermaking innovation documentation.",
             "human_desc" : "Framed document on a thin, fibrous sheet of yellowed cream paper. Its texture appears brittle and uneven, with visible creases and worn edges from extensive folding. It is unfolded to display both pages. On the left, the page is visibly creased into three vertical sections. The middle section, a dark brown with age, has black cursive handwriting on the middle, like an addressed envelope, and a triangular folded seal flap at the top. On the right, a name is written in large script at the top of the page followed by block of smaller black script aligned to the right edge of the page and signatures in both bottom corners. The paper has visible water stains, dark ink blotting, and edge wear and is darkened significantly in places due to age and oxidation."
@@ -370,7 +370,7 @@
         },
         {
             "ID": 49,
-            "image" : "Art49.jpg",
+            "image" : "Art49.JPG",
             "labelText" : null,
             "ai_desc" : "This black-and-white photograph captures a traditionally dressed young person holding a large, rectangular woodblock used for printing. The material of the object is carved wood, specifically used for block printing, likely from East Asian origins. The surface texture of the block is rough and visibly worn, with rows of meticulously carved raised characters—probably Chinese or Korean script—displayed in relief. The form is a flat, thick plank, rectangular in shape and wider than it is tall, designed to be inked and pressed onto paper. Structurally, the block is solid, with a dense grain that suggests it was chosen for durability and fine carving. The color appears dark due to age and ink staining, although the black-and-white format emphasizes contrast rather than true tones. The condition of the block looks good, with clear legibility of the characters and no major chips or cracks, indicating it was well-preserved or possibly still in use at the time of the photograph.",
             "human_desc" : "Black and white photograph of a man holding a printing woodblock. The meticulously carved raised Chinese characters is contained in a large central rectangle and the woodblock has several inches of workspace on either side of this rectangle."
@@ -378,7 +378,7 @@
         },
         {
             "ID": 50,
-            "image" : "Art50.jpg",
+            "image" : "Art50.JPG",
             "labelText" : null,
             "ai_desc" : " This object is a copper printing plate, likely used for intaglio or etching processes. The material is a thin, solid sheet of copper, known for its durability and ability to hold fine etched lines. The texture is smooth overall, though it bears fine incised grooves and etched detailing, some of which depict faint outlines of figures or scenes—possibly maritime or historical. The form is a flat rectangle with sharp, clean edges and a uniform thickness, typical of plates used for print reproduction. Structurally, the plate is rigid and built for repeated use under pressure in a printing press. The color is a warm reddish-orange with areas of oxidation, giving it a mottled patina that varies in hue and sheen across the surface. Its condition appears aged but stable; etchings are still faintly visible under certain lighting, although the plate shows signs of handling, tarnish, and surface wear from historical use.",
             "human_desc" : "Large horizontal copperplate etching of a sailboat. The etching is faded, and the plate is lightly tarnished with age with age."
@@ -386,7 +386,7 @@
         },
         {
             "ID": 51,
-            "image" : "Art51.jpg",
+            "image" : "Art51.JPG",
             "labelText" : "Intaglio copperplate etching and proof by William Paxton",
             "ai_desc" : "This display consists of an intaglio copperplate etching paired with its printed proof, both created by William Paxton. The plate itself is made of polished copper, a traditional material for intaglio printmaking, known for its fine line retention and smooth surface. The texture of the copperplate is firm and metallic with etched lines that form the portrait image; these incisions are visible due to subtle light reflections. The form is a small, rectangular slab, standardized for portrait reproduction, and flat in structure to accommodate uniform printing pressure. In terms of color, the copperplate exhibits a warm golden-bronze tone with a mild patina and darker areas where the etching has bitten into the surface. The accompanying proof is printed on off-white paper and reveals the full portrait—realistically rendered with expressive shading and fine detailing, especially in the facial features and the draped garment. The condition of both elements appears excellent: the plate is clean and sharply preserved, and the print is crisp, evenly inked, and well-aligned within its matting, offering a clear before-and-after view of the intaglio process.",
             "human_desc" : "This display consists of an intaglio copperplate etching paired with its printed proof, both created by William Paxton. On the right, the warm brown copper plate is slightly larger than a playing card with etched lines that form the portrait of a woman. On the left, the accompanying proof is printed on off-white paper and reveals the full portrait—realistically rendered with expressive shading and fine detailing. The proof image mirrors that on the plate."
@@ -394,7 +394,7 @@
         },
         {
             "ID": 52,
-            "image" : "Art52.jpg",
+            "image" : "Art52.JPG",
             "labelText" : "Chinese print seal from Yuan Dynasty, 1260-1368",
             "ai_desc" : " This is a Chinese print seal from the Yuan Dynasty, dating from 1260–1368. The material appears to be a type of carved stone or possibly lacquered wood, traditionally used for seals in this period, with a polished surface that gives it a dense, solid feel. The texture is smooth on the uncarved sides, while the engraved stamp face shows a relief pattern—likely Chinese characters—in a raised, linear structure that was designed to imprint ink or pigment onto paper. The form is compact and block-like, likely cuboid or slightly tapered, optimized for handheld use and downward pressure during stamping. Its structure is minimal and functional, with the stamp face prominently oriented. The color is a deep reddish-brown with blackened areas from age or use, and red pigment remains visible within the carved lines, suggesting historical use with cinnabar ink. The artifact is in good condition, with slight wear on the edges and stamp surface but no visible damage, preserving both its legibility and cultural significance as a mark of identity or authority in the Yuan Dynasty.",
             "human_desc" : "A rectangular block of wood or stone, about the size of a thumbnail, with smooth, polished sides and an engraved face with raised lines to imprint ink onto paper. The engraved face is prominently displayed, and it is a deep reddish-brown with blackened areas from age or use. The carved lines and smooth sides are black in color and slightly worn from use."
@@ -402,7 +402,7 @@
         },
         {
             "ID": 53,
-            "image" : "Art53.jpg",
+            "image" : "Art53.JPG",
             "labelText" : "printed frontispiece, 1665",
             "ai_desc" : "This artifact is a printed frontispiece dated 1665. The material is laid rag paper, typical of the 17th century, which is moderately thick and fibrous, giving it a sturdy composition. The texture appears slightly rough with visible chain and laid lines, suggesting it was handmade with a traditional paper mold. Its form is rectangular, consistent with a book's title page, and it includes both typographic and engraved elements. The structure is vertically oriented with a centered typographic layout in Latin, featuring decorative embellishments, including an engraved emblematic illustration in the lower half flanked by allegorical figures. The color of the ink is primarily black, with prominent red headings for emphasis, and the paper has aged to a warm, yellowed cream tone. The condition shows light creasing, edge wear, and slight staining—especially along the bottom margin—but the print remains legible and visually rich, preserving the elegance and clarity of a mid-17th-century title page.",
             "human_desc" : "Printed frontispiece on laid rag paper. The vertical rectangular page has aged to a warm cream tone, with light creasing, edge wear, and slight staining. On the page is a centered layout of typographic and engraved elements. The text is Latin, written in a serif font in black ink, with some occasional red headings for emphasis. There is a decorative black engraved emblematic illustration in the lower half flanked by allegorical figures."
@@ -410,7 +410,7 @@
         },
         {
             "ID": 54,
-            "image" : "Art54.jpg",
+            "image" : "Art54.JPG",
             "labelText" : "Cameo wood block, engraving by Thomas Bewick, 1753-1828",
             "ai_desc" : " This is a cameo woodblock engraving by Thomas Bewick, dated between 1753–1828. The material is a dense hardwood, likely boxwood, which was commonly used by Bewick for its fine grain and durability. The texture of the block is smooth in the recessed background areas, while the raised engraved surfaces are finely cut and crisp, designed to hold ink for printing. The form is a small rectangular block, proportioned for a book illustration or vignette, and it features a scene with three figures in period attire, rendered in delicate relief. Structurally, the engraving is executed in relief (cameo), with the image raised from the surface of the block to be inked and pressed onto paper. The color is a dark, near-black tone, likely due to residual printer's ink or treatment over time, with highlights on the raised portions catching ambient light. The condition appears stable, though it shows signs of wear and aging: the edges are slightly rough, and the surface has minor scuffs and residue, typical for a printing block of this age and use.",
             "human_desc" : "Small rectangular cameo woodblock engraving made from a dense hardwood. The engraving features a scene with three figures in period attire, and the image is raised from the block to be inked and pressed onto paper. It is a near-black wood block, with highlights on the raised portions catching ambient light. The texture is smooth in the lower background areas, while the raised engraved surfaces are finely cut and crisp. The edges are slightly rough, and the surface has minor scuffs and residue due to age and use."
@@ -418,7 +418,7 @@
         },
         {
             "ID": 55,
-            "image" : "Art55.jpg",
+            "image" : "Art55.JPG",
             "labelText" : "Cameo wood block engraving, 18th century",
             "ai_desc" : " This 18th-century cameo woodblock engraving is made from a solid piece of hardwood, likely boxwood, valued for its durability and tight grain. The texture shows the hallmarks of hand carving—smooth in background areas with subtle ridges and chisel marks in the engraved portions. Its form is irregular and partially crescent-shaped, suggesting it may have broken from a larger block or was repurposed from a natural branch segment. The structure is relief-based: the image—a figure, possibly a classical or religious subject—is carved in raised detail for inking and printing. The color is a deep, warm brown with darker shadows from aged wood and possible ink residue. The condition is notably compromised; a prominent crack runs through the block, and part of the wood is missing, indicating fragility and historical wear. Despite this, the engraved image remains legible, showcasing the block’s original function as a printing surface.",
             "human_desc" : "Small rectangular cameo woodblock engraving made from a dense hardwood. The engraving features a scene with three figures in period attire, and the image is raised from the block to be inked and pressed onto paper. It is a near-black wood block, with highlights on the raised portions catching ambient light. The texture is smooth in the lower background areas, while the raised engraved surfaces are finely cut and crisp. The edges are slightly rough, and the surface has minor scuffs and residue due to age and use."
@@ -426,7 +426,7 @@
         },
         {
             "ID": 56,
-            "image" : "Art56.jpg",
+            "image" : "Art56.JPG",
             "labelText" : "Chinese stone printing block, 15th century",
             "ai_desc" : " This Chinese stone printing block from the 15th century is carved from a single slab of dense, fine-grained stone—possibly a type of slate or soapstone, materials historically used for their durability and workability. The texture is finely polished across the surface, with incised areas left matte and slightly rougher, creating contrast between the raised and recessed portions. The form is rectangular with clean edges, suggesting careful finishing and use in repeated printing. Structurally, the block displays intricate relief carvings: a central figure in flowing robes sits among delicately rendered tree branches and floral elements, framed by vertical Chinese characters on the left. The overall design is both pictorial and calligraphic. The coloration is a natural mottled mix of earthy browns, greens, and ochres, with hints of oxidation or ink staining in recessed areas. The condition is remarkably intact, with no visible cracks or chips—testament to the material’s resilience and the block’s likely ceremonial or high-status function.",
             "human_desc" : "This Chinese stone printing block from the 15th century is carved from a single rectangular slab of dense, fine-grained stone. The block displays intricate carvings of a central figure in flowing robes sits among delicately rendered tree branches and floral elements, framed by vertical Chinese characters in the upper left corner. The texture is finely polished across the surface, with incised areas left matte and slightly rougher, creating contrast between the raised lines of the illustration and recessed portions of relief. The coloration is a natural mottled mix of earthy browns, greens, and ochres, with hints of oxidation or ink staining in recessed areas."
