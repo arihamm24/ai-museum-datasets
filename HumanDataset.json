@@ -111,42 +111,462 @@
         "ID":"19",
         "image":"",
         "labelText":"Otomi tools for making bark paper​",
-        "altText":"Small rectangular stone tool with rounded corners and an incision traveling the circumference of the stone edge to serve as a hand grip or way to secure a plant fiber handle   "
+        "altText":"Small rectangular stone tool with rounded corners and an incision traveling the circumference of the stone edge to serve as a hand grip or way to secure a plant fiber handle"
     },
     {
         "ID":"20",
         "image":"",
-        "labelText":"",
-        "altText":""
+        "labelText":"N/A",
+        "altText":"Black and white photograph of Two Otomi people, male and female, in front of a hut surrounded by boards and fiber for making bark paper. The woman in the foreground sits with legs extended and a wooden board on her lap as she beats bark paper. The man sits on a stone or stump in a squat position approximately a foot behind the woman. He appears to be smoking while children sitting at the left and right of the picture stare directly into the camera."
     },
     {
-        "ID":"",
+        "ID":"21",
         "image":"",
-        "labelText":"",
-        "altText":""
+        "labelText":"N/A",
+        "altText":"Black and white photograph of Otomi person standing holding a wooden board in one hand while pulling dried bark paper off the board tool with the other hand."
     },
     {
-        "ID":"",
+        "ID":"22",
         "image":"",
-        "labelText":"",
-        "altText":""
+        "labelText":"Tapa cloth influenced by the arrival of missionaries to the Friendly Islands",
+        "altText":"Large banner-sized light brow tapa cloth with umbrellas, plants, a map, and various inscriptions drawn  in darker brown natural pigments. The map of islands appears in the center, near the bottom edge. The cloth is hung along a curved wall."
     },
     {
-        "ID":"",
+        "ID":"23",
         "image":"",
-        "labelText":"",
-        "altText":""
+        "labelText":"ivory bark paper beater from the Belgian Congo",
+        "altText":"Bark cloth tool made from ivory tusk covered with a grid pattern that circles the circumference of the tusk and extends halfway down from the cut end of the tusk. The pointed end of the tusk serves as a smooth handle mottled with several shades of brown, and shiny from use."
     },
     {
-        "ID":"",
+        "ID":"24",
         "image":"",
-        "labelText":"",
-        "altText":""
+        "labelText":"African Bark cloth from Uganda",
+        "altText":"Highly textured washcloth-sized trapezoidal piece of black bark cloth"
     },
     {
-        "ID":"",
+        "ID":"25",
         "image":"",
-        "labelText":"",
-        "altText":""
+        "labelText":"African Bark cloth from Uganda",
+        "altText":"Handtowel-sized rectangular piece of brown bark cloth. The specimen has a texture of striped lines"
+    },
+    {
+        "ID":"26",
+        "image":"",
+        "labelText":"Zulu bark cloth, Africa",
+        "altText":"Long folded over brown rectangle of bark cloth, with a rougher weathered surface and crooked cut edges"
+    },
+    {
+        "ID":"27",
+        "image":"",
+        "labelText":"Bark beaters from Pacific Island",
+        "altText":"Array of three dark brown wooden beaters ranging from hairbrush size to relay baton length. One has a smooth handle and corncob-like head. One has a smooth handle and rectangle head with striped carvings. One has a smooth handle and a head with scale-like carvings"
+    },
+    {
+        "ID":"28",
+        "image":"",
+        "labelText":"finely decorated bark paper from Tonga",
+        "altText":"Folded light tan bark paper with a variety of intricate blue and red patterns. The patterns are created with multi-prong tools to create hatch-marks, chevrons, and squared zig-zags drawn at an angle. The piece is weathered with age, it has frayed edges and a nickel-sized hole near the bottom edge"
+    },
+    {
+        "ID":"29",
+        "image":"",
+        "labelText":"Hawaiian bamboo tools for decorating tapa cloth",
+        "altText":"Three wooden hand tools arranged in a column. Two are flat with flayed, brush-like ends. One long rod tool with carved end."
+    },
+    {
+        "ID":"30",
+        "image":"",
+        "labelText":"Shell used to scrape bark from tree for making bark paper",
+        "altText":"Black and white photograph of 2 Hawaiian people making tapa, one looks directly at the camera. The other has their head turned in profile shyly looking down at tools near their lap. Below the photo, there is a palm-sized weathered ark seashell"
+    },
+    {
+        "ID":"31",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Large square illustration of a man on a bench crafting sandal-style shoes. He sits with his left foot on the bench, his right leg hanging off. In his left hand is a hammer and the right is an unfinished shoe. Left of the bench is a basket for finished shoes  and a slightly smaller container of fabric"
+    },
+    {
+        "ID":"32",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Large illustration of white flower with pink buds and green leaves. 2 butterflies approach from either side"
+    },
+    {
+        "ID":"33",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Large illustration of a bird walking on grass. There are rocks and flowers on either side of where the bird stands"
+    },
+    {
+        "ID":"34",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Small color illustration of various insects on a blank background"
+    },
+    {
+        "ID":"35",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Large rectangular illustration of a man walking and carrying a grey bird on a rod. He carries the rod with two hands in front of him. The bird is attached to a hook near the man's right foot, weighing the rod down and causing it to lean in the man's hands. It is also bleeding, represented by a reddish pink rectangle curving from its midsection"
+    },
+    {
+        "ID":"36",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Small color illustration of four butterflies and two beetles on a blank background"
+    },
+    {
+        "ID":"37",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Small color illustration of a pink flower, with an insect on its leaf"
+    },
+    {
+        "ID":"38",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Full length printed illustration of a red column with white background. The column is separated into a short, rounded top portion and longer bottom portion where there are leaf or petal-like line decorations."
+    },
+    {
+        "ID":"39",
+        "image":"",
+        "labelText":"Long dark rectangle of papyrus with visible writing in an unknown language.",
+        "altText":"8th century AD legal document on papyrus"
+    },
+    {
+        "ID":"40",
+        "image":"",
+        "labelText":"Boat made of papyrus plants",
+        "altText":"Black and white photograph of Canoe-like boat made of bound bundles of papyrus"
+    },
+    {
+        "ID":"41",
+        "image":"",
+        "labelText":"Papyrus from 2nd century BC documenting distribution of grain",
+        "altText":"Aged and fraying piece of papyrus with writing in an unknown language organized into rows and columns"
+    },
+    {
+        "ID":"42",
+        "image":"",
+        "labelText":"Illustration of papyrus plants on papyrus",
+        "altText":"Black ink illustration of papyrus plants on papyrus."
+    },
+    {
+        "ID":"43",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Black and white photograph of hands laying strips of papyrus"
+    },
+    {
+        "ID":"44",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Black ink illustration of papyrus plant"
+    },
+    {
+        "ID":"45",
+        "image":"",
+        "labelText":"Manuscript on polisher paper of Kashmir, 1848",
+        "altText":"Framed rectangular piece of paper with Kashmiri Arabic script written on dark brown lines in the center of the page"
+    },
+    {
+        "ID":"46",
+        "image":"",
+        "labelText":"Paper mold from Punjab, India",
+        "altText":"Large brown wooden paper mold, about the size of a window frame, with a warmer brown reed mat positioned across the triangular bars of the mold."
+    },
+    {
+        "ID":"47",
+        "image":"",
+        "labelText":"Grass brushes from India used to apply sheets of paper onto drying wall",
+        "altText":"Smooth, long bundle of dried grass fibers. There is a handle made by a tight string holding the fibers together and vines or thin branches wrapped lower on the bundle to pinch the fibers into a fan shape."
+    },
+    {
+        "ID":"48",
+        "image":"",
+        "labelText":"Grass brushes from India used to apply sheets of paper onto drying wall",
+        "altText":"Frayed bundle of dried grass fibers, held together by an intricately tied string."
+    },
+    {
+        "ID":"49",
+        "image":"",
+        "labelText":"Paper polishing stones from India",
+        "altText":"Two smooth ovular stones. One is long, with a short raised rectangular portion. The other is more vase-shaped, round with a raised neck-like handle portion"
+    },
+    {
+        "ID":"50",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Black and white photograph of Indian man in a headwrap squatting in front of a vat to pull the mold from the water. This photo taken by Dard Hunter during his travels."
+    },
+    {
+        "ID":"51",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Black and white photograph of Elderly Indian squatting on a woven while using a wooden polishing board to polish a  sheet of handmade paper."
+    },
+    {
+        "ID":"52",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Black and white photograph of 2 People in front of a decorative cement wall hanging sheets of paper to dry on makeshift clotheslines."
+    },
+    {
+        "ID":"53",
+        "image":"",
+        "labelText":"Early Chinese wove paper mold",
+        "altText":"Woven fabric stitched onto a large wooden frame with thin strips of wood. There is a translucent very textured piece of paper on the mesh to indicate the purpose of the tool."
+    },
+    {
+        "ID":"54",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Black and white photograph taken by Dard Hunter of Chinese man posed to dip a large rectangular mold into a wooden papermaking vat"
+    },
+    {
+        "ID":"55",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Black and white photograph of Two Chinese men near a river tending to a stone-lined rhetting pit for papermaking. One man holds a long pole with a pot on the end. The other is scoping from a waist-height pile of fibers with a pitchfork."
+    },
+    {
+        "ID":"56",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Black and white photograph taken by Dard Hunter capturing two Chinese men carrying bales of plant fibers swinging from poles across their shoulders"
+    },
+    {
+        "ID":"57",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Black and white photograph of Chinese man looking over his shoulder while gathering large dried sheets from chest-high paper molds tilted and propped by poles that are outside. There are mountains in the background."
+    },
+    {
+        "ID":"58",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Black and white photograph taken by Dard Hunter of a Chinese man standing in ankle-deep water, holding a wooden bucket, and poking at submerged paper molds with a long, bent stick."
+    },
+    {
+        "ID":"59",
+        "image":"",
+        "labelText":"Long framed white piece of paper with illustrations. Chinese characters are in a central navy rectangle, bordered on either side by blue dragon illustrations and topped with a bell-shaped cloud/floral illustration. There is a red border around each portion of the illustration and a white lotus with pink tips at the bottom of the illustration",
+        "altText":"Buddhist temple painting, the Buddha of wisdom circa 1800"
+    },
+    {
+        "ID":"60",
+        "image":"",
+        "labelText":"Chinese wood block from the Ching Dynasty made for Emperor Yuang Hsui. The inscription says that good fortune will come like the sunshine",
+        "altText":"Large red wood slab, carved with Chinese characters and illustrations. In the center of the slab, there is a square logo with Chinese characters, four Chinese characters underneath, and at the bottom an illustration of a man on a horse. On the edges, are smaller inscriptions."
+    },
+    {
+        "ID":"61",
+        "image":"",
+        "labelText":"Buddhist temple painting, the Army Buddha, circa 1800",
+        "altText":"Long framed black piece of paper with white and gold Chinese characters and illustrations. There is a column with three sections taking up most of the paper. The middle section is large thick gold Chinese characters, and in the two sections on either side there is a single gold dragon illustration. The columns are separated by white lines, and a white border encapsulates the whole column, curving around the dragons and straight on the top. The bottom of the column has golden leaf illustrations. Beneath this is a set of gold decorative illustrations that take up the bottom of the page. Above the column is an ornate gold dragon illustration with some white embellishments on the border. There is an irregularly-shaped hole near the bottom of the paper about one index finger tall."
+    },
+    {
+        "ID":"62",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Yellowing rectangular page with black Chinese characters inscribed in a black rectangle, arranged in columns. Page is framed on a white mat"
+    },
+    {
+        "ID":"63",
+        "image":"",
+        "labelText":"Korean papermaking",
+        "altText":"Black and white photograph of a Korean man in a field of drying sheets of paper weighed down with stones. He balances a stack of these sheets on his back, the stack is about the height of his head. In the foreground, to the right, is another large stack of papers"
+    },
+    {
+        "ID":"64",
+        "image":"",
+        "labelText":"Chinese book of Buddhist teachings from the Ts'ing Dynasty",
+        "altText":"A long, thin book open to a two-page spread of Chinese characters in columns, with top and bottom margins delineated by straight bold black lines. Each page has five columns of characters. The pages are wrinkled and yellowed with age, and the left page is slightly darker than the right"
+    },
+    {
+        "ID":"65",
+        "image":"",
+        "labelText":"Chinese book containing the writing of a student of Buddha who is making three wishes for his next life",
+        "altText":"Accordion book written in Chinese. Each page contains five vertical columns of Chinese characters, with margins above and below delineated by thick black lines."
+    },
+    {
+        "ID":"66",
+        "image":"",
+        "labelText":"Chinese two-sided woodblock for printing wallpaper",
+        "altText":"Piece of navy patterned wallpaper, slightly larger than modern letter paper. The pattern has a central circle design of an ornate bird holding a branch in its beak. In each corner of, there is a quarter of the central design in the same pink/coral color. Around the central design, extending between each corner design is a light blue-green smoke pattern. The woodblock, underneath the wallpaper, is a stamp for the central design and the quarters in the corners. The design is mirrored, and block is stained with the same pink/coral color"
+    },
+    {
+        "ID":"67",
+        "image":"",
+        "labelText":"Book that describes the Buddhist tradition of passing through courts of punishment for evil deeds committed in life in order to be reincarnated after death. Woodblock for printing pages of this book",
+        "altText":"NO DESCRIPTION WRITTEN"
+    },
+    {
+        "ID":"68",
+        "image":"",
+        "labelText":"Ming Dynasty Currency",
+        "altText":"Dark grey or green piece of paper, slightly larger than letter paper with sets of Chinese characters and seals organized in rectangles. At the top of the page, in an oval inscribed inside a thick black rectangular border, is a set of Chinese characters. Inside this border, a smaller rectangle is divided in half horizontally. The bottom half of this rectangle has Chinese characters arranged vertically in columns. The top half is further divided into three columns. The two outer columns have a set of seals arranged vertically. The middle column is divided unevenly in half, with the smaller top half having two Chinese characters, and the bottom, larger half having an array of Chinese characters arranged in 2 columns, with one as a header between the two columns"
+    },
+    {
+        "ID":"69",
+        "image":"",
+        "labelText":"Chinese spirit money burned as offerings to Buddhist Gods",
+        "altText":"Palm-sized yellow rectangle of paper, in the center a blue and white mottled rectangle is outline by a larger, thick red square"
+    },
+    {
+        "ID":"70",
+        "image":"",
+        "labelText":"Chinese bank check from the late 19th century (label text slightly obscured)",
+        "altText":"Medium slip of white paper, with red and black text and red decorative illustrations. A thick red rectangle with rounded top corners inscribed with small Chinese  inscribed with small Chinese characters encircles a tabular set of characters an illustrations. Inside the trapezoid, there is an array of Chinese characters arranged in rectangular cells. There are black Chinese characters and red stamps on top of these as well. On the right edge of the trapezoid, three half stamps are arranged in a column and some cut off Chinese characters are written on top of them. The paper is slightly yellowed with age."
+    },
+    {
+        "ID":"71",
+        "image":"",
+        "labelText":"Korean wood block",
+        "altText":"Dark brown wooden block about 3 feet tall. At the bottom of the wood block, there is a solid edge with a row of Korean characters inscribed. From the edge, an intricate geometric pattern of lines form a diagonal maze-like pattern. There are 3 circular designs inscribed in the maze, two hand-sized designs near the bottom edge, and a larger one near the top of the block."
+    },
+    {
+        "ID":"72",
+        "image":"",
+        "labelText":"Chinese writing set",
+        "altText":"A set of four writing tools. There is a small metal ink well, shaped like a teapot with a cuboidal body. There is a long wooden stick with a greyish white metal cap on its tip extending a third of the way down the tool. There is a brush tool with a wooden handle and pointed white bristles. Both have string loops at the end. Next to the brush sits the metal cap to protect the brush bristles"
+    },
+    {
+        "ID":"73",
+        "image":"",
+        "labelText":"Print seals used for government documents. money shops also used seals to verify the authenticity of currency. They were made from bronze, jade, tourmaline, and water buffalo horn",
+        "altText":"Most of the samples in the case have square/rectangular bases that taper smaller away from the face of the seal. One is the cone-shaped tip of a horn, one has a small turtle figurine as the handle, and one's face is carved into a circular design. There are a total of ten seals on display"
+    },
+    {
+        "ID":"74",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Small wooden pagoda statue about 10 inches tall used to house a printed scroll of religious text"
+    },
+    {
+        "ID":"75",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Black and white photograph of an Elderly person of unknown Asian descent scraping bark to collect and clean the inner bark for papermaking"
+    },
+    {
+        "ID":"76",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Long strip of yellowed paper about three inches tall with a jagged top edge and Japanese characters arranged in vertical columns. The right end of the paper has larger tears on the top edge than does the left end."
+    },
+    {
+        "ID":"77",
+        "image":"",
+        "labelText":"Steps in Japanese hand papermaking",
+        "altText":"Black and white photograph of fiber either being soaked or rinsed outside in water areas that have been dammed off from the river by stones. It is unclear if the fiber is soaking for rhetting or being rinsed cleaned"
+    },
+    {
+        "ID":"78",
+        "image":"",
+        "labelText":"Steps in Japanese hand papermaking",
+        "altText":"Black and white photograph of papermaking studio in Japan. There is an unattended vat at the front of the image while workers at the back of the room are engaged in various activities."
+    },
+    {
+        "ID":"79",
+        "image":"",
+        "labelText":"Steps in Japanese hand papermaking",
+        "altText":"Black and white photograph of women picking through the fiber to remove any remaining chips of outer bark"
+    },
+    {
+        "ID":"80",
+        "image":"",
+        "labelText":"Steps in Japanese hand papermaking",
+        "altText":"Black and white photograph of a person beating plant fibers to prepare them for papermaking. The person wears a thick white headband on open-toed shoes and holds with two hands a baseball bat-sized beater tool. The plant fibers are spread on to a table that is about mid-thigh height to this person and on the right side of the frame."
+    },
+    {
+        "ID":"81",
+        "image":"",
+        "labelText":"Steps in Japanese hand papermaking",
+        "altText":"Black and white photograph of a papermaking studio in Japan. A supervisor stands in the back of the room in between the two columns of 6 rectangular workstations for the papermakers. At each station, workers are at various stages of forming and couching Japanese washi paper."
+    },
+    {
+        "ID":"82",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Japanese illustration of a soldier or warrior on a black smiling horse. The horse's saddle, snout, hooves, and leads are all a blue-green color, and the top strap attaching the bit to its mouth is a peach color. The warrior has grey neck-length hair and a beard and raises a sword over his head such that the blade extends behind him. He wears yellow Japanese plate armor, with black sleeves and blue-green accents. There are vertical Japanese characters in the upper left part of the illustration, near the warrior's bent elbow, and at the bottom of the illustration, near the horse's raised hind foot."
+    },
+    {
+        "ID":"83",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"A set of four Japanese papermaking tools. To the left is a broom or brush like tool, about forearm length with a short handle. To the right, three tools are arranged in a column from largest to smallest. First, a tool with a forearm length wooden handle and curved metal blade. Next, a tool similar to a butcher knife, but slightly larger, with a warm brown wooden handle. Lastly, a tool similar to a straight razor with a lighter brown wooden handle."
+    },
+    {
+        "ID":"84",
+        "image":"",
+        "labelText":"Japanese papermaking village",
+        "altText":"Black and white photograph of a Japanese Papermaking Village. There are trees in the upper left and right corners, encircling the edge of the village and mounds of dirt between several houses/buildings."
+    },
+    {
+        "ID":"85",
+        "image":"",
+        "labelText":"Japanese manuscript from the 14th century",
+        "altText":"Two-page spread of a Japanese manuscript on white paper. A black ink illustration of two men having tea spans both pages. They are seated on a tile floor with an ornate tea set between them. Behind the man on the right page, there are several black bordered/framed paintings. Next to the man on the left page, the room opens out to a tree garden. The book is about 8 inches tall, and the pages are dirty with age"
+    },
+    {
+        "ID":"86",
+        "image":"",
+        "labelText":"Reproduction of 17th Century Japanese book on papermaking",
+        "altText":"Two-page spread of a Japanese manuscript on yellowed paper.  The book is about 8 inches tall. On each page, a black ink illustration and columns of Japanese characters are inscribed in a black rectangle. In the upper right corner of each rectangle, there is a column of Japanese characters separated from the other columns with a black rectangle. On the left page, an older woman standing with a cup talks with a balding man seated on a platform smoking a pipe and holding a loom. Underneath the platform is a pot and a long box. Immediately to the man's left is a smaller box and behind him is a sack of unknown content. On the right page, two people are collecting bark/plants for paper making. The shirtless person in the foreground is tying a bundle of sticks with twine. To their left is a larger ball of twine and a line of sticks yet to be tired. In the background, an older person in a robe sits on the ground cutting down a tree with scythe like tool."
+    },
+    {
+        "ID":"87",
+        "image":"",
+        "labelText":"Japanese paper mold",
+        "altText":"2 large brown wooden frames, about two feet tall, secured on top of each other with strings tied in each corner. Between the two frames is a reed to collect pulp fibers and form the sheet of paper."
+    },
+    {
+        "ID":"88",
+        "image":"",
+        "labelText":"Papermaking in Tibet",
+        "altText":"Black and write photograph of two people in Tibet setting up papermaking molds to dry in the sun"
+    },
+    {
+        "ID":"89",
+        "image":"",
+        "labelText":"Illustration from Tibetan Book",
+        "altText":"Framed small rectangle of black paper with frayed edges. In the center of paper, a rectangular illustration with a gold border. In the center of the illustration, there is a green horse with blue reins, an ornate red and gold saddle, and a small red and gold statue or figure on the horse's back. The horse stands on a small brown platform with a floral bottom décor and is encircled by 3 concentric circles of different colors. The illustration has a  symmetrical backdrop, with a blue sky, pink clouds, and three mountains with a river flowing to their bases on either side of the horse design."
+    },
+    {
+        "ID":"90",
+        "image":"",
+        "labelText":"Illustration of the 1000-eyed Buddha from a Tibetan book",
+        "altText":"Framed vertical illustration on a white mat. The colorful illustration is about 6inches by 4 inches and depicts a Buddha figure. The figure is in the center of the illustration and has several heads with black hair stacked on top of each other. Each forward-facing head has two sideways heads on either side. The figure has their hands clasped in front of them, seemingly in prayer and wears a short layered red skirt. The figure is encircled by a blue-bordered brown circular design with dark brown eye-like markings in the circle. A pink cloud-like design outlines the circular design and the Buddha figure. The illustration has a 3-part geometric background with pink, blue, and green sections"
+    },
+    {
+        "ID":"91",
+        "image":"",
+        "labelText":"Tibetan prayer rolls",
+        "altText":"A set of four small rolls of paper, each about an index finger tall. 2 rolls are standing upright; the left is white and wrinkled with age and the right is yellow and browning with age. In front of the, two thinner rolls are laying down in opposite directions. In front of the white upright roll, a thin yellow roll points to the left. In front of the yellow upright roll, a long thin roll, which appears to be sealed in some brown wrapping, points to the right. The wrapping is chipped with age, revealing a lighter brown color"
+    },
+    {
+        "ID":"92",
+        "image":"",
+        "labelText":"Book from the Temple of the Living God, 1662-1723",
+        "altText":"A separated book, with part of the manuscript lying flat on the shelf and the other leaned against the wall. The two halves are touching and both are about the length of an adult forearm. The top half, leaned against the wall, has three rows of Tibetan characters inscribed in the middle portion of a rectangle divided into uneven fifths. The text portion is the largest fifth, and it has two slim fifths on either side, each about the width of a finger. The last two fifths, on the outer most edges of the rectangle, are about one inch wide. The rightmost fifth has about three Tibetan characters arranged in a column. This divided rectangle with text is inscribed inside a larger rectangle with a black border. The bottom half has a much simpler design, with 6 rows of Tibetan characters inscribed in a central rectangle with a black border."
+    },
+    {
+        "ID":"93",
+        "image":"",
+        "labelText":"Tibetan Buddhist religious writing",
+        "altText":"A small  horizontal book displayed at a right angle, such that the top portion of the book is clearly visible and the bottom portion lays flat on the shelf. On each page, there 4 rows of Tibetan characters inscribed in a rectangle with a black border. On central either side of the rectangle, are single Tibetan characters that appear to be page numbers or headers."
+    },
+    {
+        "ID":"94",
+        "image":"",
+        "labelText":"small accordion Tibetan book",
+        "altText":"Small, pocket-sized accordion book opened to a two-page spread. Each page has top and bottom margins, separated from the page content by two black lines. The left page has a black ink illustration of a Buddha or other spiritual figure in the center of the image surrounded by clouds. The illustration takes up all of the page horizontally but is displayed on its side because the book is displayed vertically. The right page has 4 columns of black Tibetan characters."
+    },
+    {
+        "ID":"95",
+        "image":"",
+        "labelText":"N/A",
+        "altText":"Life-size white stone sculpture of a European papermaker pulling a mold and  pulling a mold and deckle from a wooden barrel vat. The entire sculpture is on a low black circular platform with etched glass as a backdrop."
     }
 ]
